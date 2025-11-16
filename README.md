@@ -55,4 +55,4 @@ This is a prototype for educational and entertainment purposes. All AI responses
 
 ---
 
-Built with ✨ magic and 💙 care for hackathon innovation.
+Built with magic and care for hackathon innovation.
